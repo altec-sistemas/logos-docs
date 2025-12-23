@@ -8,14 +8,13 @@ Neste documento, reunimos os dados completos levantados até o momento para a mi
 > *Os nomes são apenas sugestivos, utilizados para diferenciar os produtos.*
 
 ## Importante
----
+
 
 Alguns pontos precisam ficar claros: a ideia central de todo o projeto é criar um ambiente **totalmente unificado**. Ainda assim, haverá uma divisão de responsabilidades, porém com **um único código e uma única linguagem**, permitindo o compartilhamento de lógicas entre *frontends* ou até entre *frontend* e *backend*, quando fizer sentido.
 
 Isso visa simplificar o desenvolvimento e facilitar a manutenção dos sistemas.
 
 # Requisitos 
----
 
 Os requisitos serão divididos em duas partes:
 
