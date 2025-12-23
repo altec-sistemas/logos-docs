@@ -5,6 +5,7 @@ Neste documento, reunimos os dados completos levantados até o momento para a mi
 * **Logos Admin** → Next Admin
 * **Logos** → Next Hub
 
+> [!NOTE]
 > *Os nomes são apenas sugestivos, utilizados para diferenciar os produtos.*
 
 ## Importante
