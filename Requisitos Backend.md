@@ -712,7 +712,8 @@ Busca informações do container para iniciar o setup baseado no cnpj
 
 ## Integrações e Processos Assíncronos Periodicos
 
-> [!info] As funcionalidades abaixo **não são endpoints REST** acessíveis pelo frontend. São processos de background que rodam continuamente no servidor através de polling, timers ou event listeners.
+> [!NOTE]
+> As funcionalidades abaixo **não são endpoints REST** acessíveis pelo frontend. São processos de background que rodam continuamente no servidor através de polling, timers ou event listeners.
 
 ### Runners Periódiodicos
 
