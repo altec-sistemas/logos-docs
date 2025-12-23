@@ -19,13 +19,13 @@ Isso visa simplificar o desenvolvimento e facilitar a manutenção dos sistemas.
 
 Os requisitos serão divididos em duas partes:
 
-## [Requisitos Backend](Requisitos Backend.md)
+## [Requisitos Backend](Requisitos%20Backend.md)
 
 São *endpoints* que serão utilizados pelo *frontend* para executar determinadas operações, como abrir vendas, configurar o servidor, buscar produtos, entre outras.
 
 Também incluem interações entre *backends*, como sincronização (comunicação entre backend local e cloud), download de novas versões, integrações com serviços de delivery, etc.
 
-## [[Requisitos Frontend]Requisitos Frontend.md]
+## [Requisitos Frontend](Requisitos%20Backend.md)
 
 São os requisitos gerais da aplicação, como tela de login, tela de mapa de mesas, botões específicos (X, Y), entre outros.
 
